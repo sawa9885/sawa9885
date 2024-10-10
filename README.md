@@ -1,7 +1,7 @@
 👋 Hi there! I'm **Sam Walker**, a BS Computer Engineering student at CU Boulder with a passion for embedded systems and software development.
 
 🌟 **About Me**:
-- 🎓 Pursuing a degree in Computer Engineering at CU Boulder with a cumulative GPA of 3.66.
+- 🎓 Pursuing a degree in Computer Engineering at CU Boulder with a cumulative GPA of 3.75.
 - 🔬 Currently involved in independent studies under Professor Bogatin and Professor Blum, focusing on embedded systems and circuits.
 - 🤖 Enthusiastic about developing projects using ESP32, Arduino, and various other microcontrollers.
 - 📚 Deeply engaged in **Critical Sports Studies**, exploring the intersection of sports, media, and society.
